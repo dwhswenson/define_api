@@ -1,0 +1,5 @@
+os.foo
+os.bar
+os.baz
+os.qux
+os.quux
